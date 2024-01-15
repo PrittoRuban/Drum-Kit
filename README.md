@@ -1,1 +1,1 @@
-# A Drum kit build using *HTML,CSS* and *JAVASCRIPT*
+### **A Drum kit build using HTML,CSS and JAVASCRIPT**
